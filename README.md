@@ -36,9 +36,3 @@ PPSSPP: Store package, dev mode package, CI on commit
 Update RetroArch cores:
 
 [![Build Status](https://dev.azure.com/Nun-z/RA%20Get%20New%20Dlls/_apis/build/status/RA%20Get%20New%20Dlls?branchName=main)](https://dev.azure.com/Nun-z/RA%20Get%20New%20Dlls/_build/latest?definitionId=15&branchName=main)
-
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Nun-z](https://Nun-z.github.io/NodeAzureUpptime)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
