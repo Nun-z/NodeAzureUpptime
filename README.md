@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 RetroArch: Store package (unstable), Store package (stable), dev mode package, CI on commit
 
 [![Build Status](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_apis/build/status/RA%20Generate%20Store%20Package?branchName=main)](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_build/latest?definitionId=14&branchName=main)
-[![Build Status](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_apis/build/status/RA%20Generate%20Store%20Package%20(1)?branchName=main)](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_build/latest?definitionId=27&branchName=main)
+[![Build Status](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_apis/build/status/Nun-z.RetroArchStable?branchName=main)](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_build/latest?definitionId=28&branchName=main)
 [![Build Status](https://dev.azure.com/Nun-z/RA%20Generate%20Dev%20Mode%20Package/_apis/build/status/RA%20Generate%20Dev%20Mode%20Package?branchName=main)](https://dev.azure.com/Nun-z/RA%20Generate%20Dev%20Mode%20Package/_build/latest?definitionId=16&branchName=main)
 [![Build Status](https://dev.azure.com/Nun-z/RetroArch/_apis/build/status/Nun-z.RetroArch?branchName=master)](https://dev.azure.com/Nun-z/RetroArch/_build/latest?definitionId=11&branchName=master)
 
