@@ -22,7 +22,7 @@
     "url": "https://dev.azure.com/Nun-z",
     "icon": "https://favicons.githubusercontent.com/dev.azure.com",
     "slug": "azure-dev-ops-organization",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 319,
     "timeMonth": 387,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-22": 0
+    }
   }
 ]
