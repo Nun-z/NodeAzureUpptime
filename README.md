@@ -29,9 +29,9 @@ RetroArch: Store package (unstable and stable), dev mode package, CI on commit
 
 PPSSPP: Store package, dev mode package, CI on commit
 
-[![Build Status](https://dev.azure.com/Nun-z/PPSSPP%20Generate%20Store%20Package/_apis/build/status/PPSSPP%20Generate%20Store%20Package?branchName=main)](https://dev.azure.com/Nun-z/PPSSPP%20Generate%20Store%20Package/_build/latest?definitionId=19&branchName=main)
+[![Build Status](https://dev.azure.com/Nun-z/Generate%20Packages/_apis/build/status/PPSSPP%20Store%20Package?branchName=main)](https://dev.azure.com/Nun-z/Generate%20Packages/_build/latest?definitionId=53&branchName=main)
 [![Build Status](https://dev.azure.com/Nun-z/PPSSPP%20Generate%20Dev%20Mode%20Package/_apis/build/status/PPSSPP%20Generate%20Dev%20Mode%20Package?branchName=main)](https://dev.azure.com/Nun-z/PPSSPP%20Generate%20Dev%20Mode%20Package/_build/latest?definitionId=20&branchName=main)
-[![Build Status](https://dev.azure.com/Nun-z/PPSSPP/_apis/build/status/Nun-z.ppsspp?branchName=master)](https://dev.azure.com/Nun-z/PPSSPP/_build/latest?definitionId=23&branchName=master)
+[![Build Status](https://dev.azure.com/Nun-z/PPSSPP%20CI/_apis/build/status/Nun-z.ppsspp?branchName=master)](https://dev.azure.com/Nun-z/PPSSPP%20CI/_build/latest?definitionId=23&branchName=master)
 
 Update RetroArch cores:
 
