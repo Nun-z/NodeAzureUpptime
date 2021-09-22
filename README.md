@@ -21,12 +21,11 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-RetroArch: Store package (unstable), Store package (stable), dev mode package, CI on commit
+RetroArch: Store package (unstable and stable), dev mode package, CI on commit
 
 [![Build Status](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_apis/build/status/RA%20Generate%20Store%20Package?branchName=main)](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_build/latest?definitionId=14&branchName=main)
-[![Build Status](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_apis/build/status/Nun-z.RetroArchStable?branchName=main)](https://dev.azure.com/Nun-z/RA%20Generate%20Store%20Package/_build/latest?definitionId=28&branchName=main)
-[![Build Status](https://dev.azure.com/Nun-z/RA%20Generate%20Dev%20Mode%20Package/_apis/build/status/RA%20Generate%20Dev%20Mode%20Package?branchName=main)](https://dev.azure.com/Nun-z/RA%20Generate%20Dev%20Mode%20Package/_build/latest?definitionId=16&branchName=main)
-[![Build Status](https://dev.azure.com/Nun-z/RetroArch/_apis/build/status/Nun-z.RetroArch?branchName=master)](https://dev.azure.com/Nun-z/RetroArch/_build/latest?definitionId=11&branchName=master)
+[![Build Status](https://dev.azure.com/Nun-z/Generate%20Packages/_apis/build/status/RA%20Dev%20Package?branchName=main)](https://dev.azure.com/Nun-z/Generate%20Packages/_build/latest?definitionId=55&branchName=main)
+[![Build Status](https://dev.azure.com/Nun-z/Generate%20Packages/_apis/build/status/Nun-z.RetroArch?branchName=master)](https://dev.azure.com/Nun-z/Generate%20Packages/_build/latest?definitionId=60&branchName=master)
 
 PPSSPP: Store package, dev mode package, CI on commit
 
