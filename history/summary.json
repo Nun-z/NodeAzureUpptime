@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/azurepipelineconnection.azurewebsites.net",
     "slug": "node-azure",
     "status": "down",
-    "uptime": "15.81%",
+    "uptime": "15.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.48%",
+    "uptimeYear": "10.40%",
     "time": 329,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2022-06-30": 23,
+      "2022-06-30": 426,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
@@ -351,17 +351,19 @@
     "url": "https://dev.azure.com/Nun-z",
     "icon": "https://favicons.githubusercontent.com/dev.azure.com",
     "slug": "azure-dev-ops-organization",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 388,
-    "timeDay": 366,
-    "timeWeek": 520,
-    "timeMonth": 437,
+    "timeDay": 240,
+    "timeWeek": 479,
+    "timeMonth": 428,
     "timeYear": 389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
