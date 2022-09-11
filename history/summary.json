@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/azurepipelineconnection.azurewebsites.net",
     "slug": "node-azure",
     "status": "down",
-    "uptime": "13.33%",
+    "uptime": "13.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 189,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2022-09-10": 29,
+      "2022-09-11": 26,
+      "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
@@ -379,8 +380,7 @@
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
-      "2021-09-12": 1440,
-      "2021-09-11": 1440
+      "2021-09-12": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 704,
-    "timeWeek": 395,
-    "timeMonth": 436,
-    "timeYear": 403,
+    "timeDay": 430,
+    "timeWeek": 426,
+    "timeMonth": 433,
+    "timeYear": 404,
     "dailyMinutesDown": {}
   }
 ]
