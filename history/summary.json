@@ -2,10 +2,10 @@
   {
     "name": "Node Azure",
     "url": "https://azurepipelineconnection.azurewebsites.net/",
-    "icon": "https://favicons.githubusercontent.com/azurepipelineconnection.azurewebsites.net",
+    "icon": "https://icons.duckduckgo.com/ip3/azurepipelineconnection.azurewebsites.net.ico",
     "slug": "node-azure",
     "status": "down",
-    "uptime": "12.75%",
+    "uptime": "12.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 40,
+      "2022-10-02": 37,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -379,14 +380,13 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   },
   {
     "name": "Azure DevOps organization",
     "url": "https://dev.azure.com/Nun-z",
-    "icon": "https://favicons.githubusercontent.com/dev.azure.com",
+    "icon": "https://icons.duckduckgo.com/ip3/dev.azure.com.ico",
     "slug": "azure-dev-ops-organization",
     "status": "up",
     "uptime": "100.00%",
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 280,
-    "timeWeek": 393,
-    "timeMonth": 359,
-    "timeYear": 404,
+    "time": 392,
+    "timeDay": 540,
+    "timeWeek": 388,
+    "timeMonth": 369,
+    "timeYear": 405,
     "dailyMinutesDown": {}
   }
 ]
