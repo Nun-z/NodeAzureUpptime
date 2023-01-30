@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/azurepipelineconnection.azurewebsites.net.ico",
     "slug": "node-azure",
     "status": "down",
-    "uptime": "10.21%",
+    "uptime": "10.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 216,
+    "time": 235,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 26,
+      "2023-01-30": 20,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -379,8 +380,7 @@
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-01-31": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 368,
-    "timeWeek": 456,
-    "timeMonth": 441,
-    "timeYear": 415,
+    "timeDay": 400,
+    "timeWeek": 442,
+    "timeMonth": 445,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   }
 ]
