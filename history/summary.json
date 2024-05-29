@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-29": 24,
+      "2024-05-29": 303,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
@@ -388,17 +388,19 @@
     "url": "https://dev.azure.com/Nun-z",
     "icon": "https://icons.duckduckgo.com/ip3/dev.azure.com.ico",
     "slug": "azure-dev-ops-organization",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 284,
-    "timeWeek": 270,
-    "timeMonth": 292,
-    "timeYear": 356,
-    "dailyMinutesDown": {}
+    "time": 363,
+    "timeDay": 220,
+    "timeWeek": 256,
+    "timeMonth": 287,
+    "timeYear": 355,
+    "dailyMinutesDown": {
+      "2024-05-29": 0
+    }
   }
 ]
