@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-18": 1337,
+      "2024-07-19": 25,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -379,8 +380,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.azure.com.ico",
     "slug": "azure-dev-ops-organization",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 209,
-    "timeWeek": 354,
-    "timeMonth": 318,
-    "timeYear": 362,
+    "uptime": "99.99%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
+    "time": 344,
+    "timeDay": 76,
+    "timeWeek": 326,
+    "timeMonth": 310,
+    "timeYear": 361,
     "dailyMinutesDown": {
-      "2024-07-18": 0
+      "2024-07-19": 25,
+      "2024-07-18": 103
     }
   }
 ]
